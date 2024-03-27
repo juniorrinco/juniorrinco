@@ -16,7 +16,7 @@ Atualmente, tenho quase 3 anos de experiência trabalhando no setor de Business 
 - 👨‍💻 Minhas principais habilidades incluem:
   - Python 🐍: Versátil e poderosa, utilizo Python para uma variedade de projetos:
     - Extração e manipulação de dados: Automatizo processos de extração, limpeza e análise de dados.
-    - Criação de sites: Utilizo frameworks como Django ou Flask para desenvolver aplicações web.
+    - Criação de sites: Utilizo frameworks como Django, Flask ou Streamlit para desenvolver aplicações web.
     - Dashboards: Desenvolvo dashboards interativos usando bibliotecas como Plotly e Dash, permitindo visualizações de dados dinâmicas e informativas.
   - C# ⌨️: Comum em desenvolvimento de aplicativos Windows e jogos, adoro explorar suas possibilidades.
   - DAX 💼: Utilizo para manipulação de dados em ferramentas como o Power BI.
